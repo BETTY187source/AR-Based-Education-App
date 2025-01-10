@@ -1,2 +1,9 @@
-# AR-Based-Education-App
-This app uses Augmented Reality (AR) to provide interactive educational experiences for students. By scanning textbooks or objects, students can view 3D models, videos, and animations that enhance their learning. The app features object recognition, AR scene rendering, and content management.
+# AR-Based Education App
+
+An interactive educational app that uses Augmented Reality (AR) to enhance learning. By scanning objects or images, students can interact with 3D models, animations, and videos, providing a more engaging and immersive experience.
+
+## Features:
+- **AR Object Recognition**: Scan objects or images to view 3D models and animations.
+- **Interactive Learning**: Engage students with virtual content like videos and 3D objects.
+- **Content Management**: Allows teachers to upload custom AR experiences.
+
